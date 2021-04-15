@@ -3,4 +3,4 @@ Ever wondered what your BMI is? Be it a Yes or No, here's an interesting applica
 
 
 How's it different from the already existing myriad of applications?
-Well, this has neumorphic design which enhances the look and feel of the application. Its interactive in a sense which provides feedback on your BMI level.
+Well, this has neumorphic design which enhances the look and feel of the application. Its interactive in a sense which provides motivational feedback on your BMI level. This consists of customized flutter widgets and the UI is inspired from the design posted by Ruben Vaalt.
