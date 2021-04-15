@@ -14,11 +14,7 @@ class BMICalculator extends StatelessWidget {
       DeviceOrientation.portraitDown,
     ]);
     return MaterialApp(
-      initialRoute: '/',
-      routes: {
-        '/': (context) => InputPage(),
-        '/results': (context) => ResultsPage(),
-      },
+      home: InputPage(),
       theme: ThemeData.dark().copyWith(
         primaryColor: Color(0xFF0A0D22),
         accentColor: Colors.black,
